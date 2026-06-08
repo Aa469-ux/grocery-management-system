@@ -52,8 +52,4 @@ The project follows a structured architecture using Flask for web development. R
 2. Open your web browser and access the app at: `http://localhost:5000`
 3. Register as a user or log in to explore the app and its features.
 
-## Contributors
-- Hitanshu Kapoor (Author) - [GitHub](https://github.com/your-username)
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
