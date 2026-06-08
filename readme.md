@@ -9,8 +9,7 @@ This project is a web-based Grocery App designed for users to browse and purchas
 - [Architecture](#architecture)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributors](#contributors)
-- [License](#license)
+
 
 ## Features
 - User registration and login.
